@@ -1,7 +1,6 @@
 'use client'
 import Image from "next/image";
 import logo from "../../public/logo.png"
-import search from "../../public/search.png"
 import ham from "../../public/ham.png"
 import Link from "next/link";
 import { useState } from "react";

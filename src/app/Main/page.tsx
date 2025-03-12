@@ -22,7 +22,7 @@ export default function Main() {
           <p className="text-[16px] text-[#68737F] leading-7 max-w-md">
             Aloe produces two substances, gel and latex, which are used for medicines. 
             Aloe gel is the clear, jelly-like substance found in the inner part of the aloe plant leaf. 
-            Aloe latex comes from just under the plant's skin and is yellow in color. 
+            Aloe latex comes from just under the plant&apos;s skin and is yellow in color. 
             Some aloe products are made from the whole crushed leaf, so they contain both gel and latex.
           </p>
   
