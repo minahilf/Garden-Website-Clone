@@ -14,6 +14,8 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+
+  
+  plugins: [ require('taos/plugin')],
 };
 export default config;
